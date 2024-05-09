@@ -111,16 +111,3 @@ onkey(lambda: store('shape', circleO), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
-
-
-
-
-# TEST TWO
-
-
-
-
-
-
-
-# TEST
